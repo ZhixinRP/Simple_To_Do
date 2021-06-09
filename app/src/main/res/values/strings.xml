@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Simple To Do</string>
+    <string name="btnAddTask">ADD</string>
+    <string name="btnDeleteTask">DELETE</string>
+    <string name="btnClearTask">CLEAR</string>
     <string-array name="spinnerItems">
         <item>Add a new task</item>
         <item>Remove a task</item>
